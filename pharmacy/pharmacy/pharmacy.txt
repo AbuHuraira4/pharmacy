@@ -1,0 +1,8 @@
+Medicine name :panadolPrice per unit :12.300000Quantity sold :12.000000Total revenue :1234.670000
+Medicine name :azolamPrice per unit :67.900000Quantity sold :23.000000Total revenue :4.000000
+Medicine name :amoxylinPrice per unit :12.400000Quantity sold :12.000000Total revenue :4500.000000
+Medicine name :Price per unit :0.000000Quantity sold :0.000000Total revenue :0.000000
+Medicine name :polybyonPrice per unit :12.400000Quantity sold :12.000000Total revenue :4500.000000
+Medicine name :Price per unit :0.000000Quantity sold :0.000000Total revenue :0.000000
+Medicine name :polybyonPrice per unit :12.400000Quantity sold :12.000000Total revenue :4500.000000
+Medicine name :Price per unit :0.000000Quantity sold :0.000000Total revenue :0.000000
